@@ -1,22 +1,17 @@
-#Help Widget
+# Help Widget
 
 	Help Widget is implemention of given mockup designs using html and css.
 
-#Libraries
+# Libraries
 	Bootstrap 3.0, Font-awesome and Jquery.
 
-#Folder Structure
- index.html
- |
- css -- style.css
- |
- js  -- main.js
+# Folder Structure
 
  index.html
   -Contains navigation tabs and tab content.
 
- style.css
+ css/style.css
    -Contains page style and overided default bootstrap styles.
 
- main.js
+ js/main.js
   -Handle click event of Send Mail button and attach file label.
